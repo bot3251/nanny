@@ -10,7 +10,6 @@ public:
   void start();
   void start_smile();
 private:
-
   void smile();
   void none_smile();
   unsigned long tmr1;
